@@ -1,5 +1,7 @@
 Multimodal AI using CLIP
 
+---
+
 Project Overview
 
 This project demonstrates a multimodal artificial intelligence model that connects images and text using the CLIP developed by OpenAI.
